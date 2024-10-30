@@ -1,0 +1,833 @@
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 30
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 30
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 30
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 30
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 30
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 30
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 30
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 30
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 30
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 30
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 117
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 117
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 238
+[30-Jun-2024 09:37:31 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 238
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "fecha_nacimiento" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "sexo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "fecha_nacimiento" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "sexo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "fecha_nacimiento" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "sexo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "fecha_nacimiento" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "sexo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "fecha_nacimiento" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "sexo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "fecha_nacimiento" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "sexo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "fecha_nacimiento" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "sexo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "fecha_nacimiento" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "sexo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "fecha_nacimiento" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "sexo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "fecha_nacimiento" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "sexo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 118
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 118
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 236
+[30-Jun-2024 10:20:15 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 236
+[30-Jun-2024 10:23:39 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 119
+[30-Jun-2024 10:23:39 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 119
+[30-Jun-2024 10:23:39 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 237
+[30-Jun-2024 10:23:39 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 237
+[30-Jun-2024 10:28:46 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 119
+[30-Jun-2024 10:28:46 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 119
+[30-Jun-2024 10:28:46 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 237
+[30-Jun-2024 10:28:46 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 237
+[01-Jul-2024 01:06:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 119
+[01-Jul-2024 01:06:04 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 119
+[01-Jul-2024 01:06:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 237
+[01-Jul-2024 01:06:04 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 237
+[01-Jul-2024 01:13:22 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 123
+[01-Jul-2024 01:13:22 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 123
+[01-Jul-2024 01:13:22 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 241
+[01-Jul-2024 01:13:22 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 241
+[01-Jul-2024 01:15:27 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 123
+[01-Jul-2024 01:15:27 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 123
+[01-Jul-2024 01:15:27 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 241
+[01-Jul-2024 01:15:27 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 241
+[01-Jul-2024 01:16:44 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 119
+[01-Jul-2024 01:16:44 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 119
+[01-Jul-2024 01:16:44 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 237
+[01-Jul-2024 01:20:13 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 119
+[01-Jul-2024 01:20:13 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 119
+[01-Jul-2024 01:20:13 Europe/Berlin] PHP Warning:  Undefined array key "ID_pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 237
+[01-Jul-2024 01:20:13 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 237
+[01-Jul-2024 02:46:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in C:\xampp\htdocs\xampp\Integradora\model\Adm_Clientes_model.php:25
+Stack trace:
+#0 C:\xampp\htdocs\xampp\Integradora\controller\Adm_Clientes_controller.php(20): Adm_Clientes_model->get_paises()
+#1 C:\xampp\htdocs\xampp\Integradora\view\Adm_index_Clientes.php(19): Adm_Clientes_controller->index()
+#2 {main}
+  thrown in C:\xampp\htdocs\xampp\Integradora\model\Adm_Clientes_model.php on line 25
+[01-Jul-2024 03:35:31 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 04:18:39 Europe/Berlin] PHP Warning:  Undefined property: PDOStatement::$num_rows in C:\xampp\htdocs\xampp\Integradora\model\Adm_Clientes_model.php on line 25
+[01-Jul-2024 04:20:32 Europe/Berlin] PHP Warning:  Undefined property: PDOStatement::$num_rows in C:\xampp\htdocs\xampp\Integradora\model\Adm_Clientes_model.php on line 25
+[01-Jul-2024 04:24:01 Europe/Berlin] PHP Warning:  Undefined property: PDOStatement::$num_rows in C:\xampp\htdocs\xampp\Integradora\model\Adm_Clientes_model.php on line 25
+[01-Jul-2024 04:27:55 Europe/Berlin] PHP Warning:  Undefined property: PDOStatement::$num_rows in C:\xampp\htdocs\xampp\Integradora\model\Adm_Clientes_model.php on line 25
+[01-Jul-2024 04:31:43 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 120
+[01-Jul-2024 04:31:43 Europe/Berlin] PHP Warning:  Undefined array key "nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 120
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:03:30 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:06:40 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 05:06:59 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 05:07:10 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 05:52:49 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:58:06 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 05:59:37 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 05:59:38 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:04 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:01:49 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 31
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 32
+[01-Jul-2024 06:02:00 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:04:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:06:34 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:07:26 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:10:29 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:10:29 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:10:29 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:10:29 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:10:29 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:10:29 Europe/Berlin] PHP Warning:  Undefined array key "Colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "ciudad" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "estado" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "ciudad" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "estado" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "ciudad" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "estado" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "ciudad" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "estado" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "ciudad" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "estado" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "ciudad" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "estado" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:15:46 Europe/Berlin] PHP Warning:  Undefined array key "pais" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 06:21:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:21:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:21:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:21:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:21:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:21:37 Europe/Berlin] PHP Warning:  Undefined array key "Nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 06:38:12 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\xampp\Integradora\controller\Adm_Clientes_controller.php on line 125
+[01-Jul-2024 06:38:12 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\xampp\Integradora\controller\Adm_Clientes_controller.php on line 125
+[01-Jul-2024 06:47:47 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 306
+[01-Jul-2024 06:49:43 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:49:43 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:49:43 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:49:43 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:49:43 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:49:43 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:55:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:55:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:55:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:55:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:55:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 06:55:31 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:18:16 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:18:16 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:18:16 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:18:16 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:18:16 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:18:16 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "id_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "id_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "id_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "id_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "id_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "nombre" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 23
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "id_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 24
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "correo" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 25
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 26
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "calle" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "numero" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:24:44 Europe/Berlin] PHP Warning:  Undefined array key "colonia" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 27
+[01-Jul-2024 07:25:03 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:25:03 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:25:03 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:25:03 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:25:03 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:25:03 Europe/Berlin] PHP Warning:  Undefined array key "ID_cliente" in C:\xampp\htdocs\xampp\Integradora\view\Adm_Clientes.php on line 33
+[01-Jul-2024 07:26:41 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:41 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:41 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:41 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:41 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:41 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:47 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:47 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:47 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:47 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:47 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:47 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:58 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:58 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:58 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:58 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:58 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:26:58 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:32:52 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:32:52 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:32:52 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:32:52 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:32:52 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:32:52 Europe/Berlin] Delete cliente method failed: ID del cliente no especificado.
+[01-Jul-2024 07:34:09 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:34:09 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:34:09 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:34:09 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:34:09 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:34:09 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:53 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:53 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:53 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:53 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:53 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:54 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:59 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:59 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:59 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:59 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:59 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:40:59 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:41:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:41:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:41:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:41:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:41:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:41:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:43:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:43:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:43:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:43:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:43:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:43:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:44:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 07:44:39 Europe/Berlin] Delete cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`integradora_bd`.`venta`, CONSTRAINT `fk__venta__id_client__6383c8ba` FOREIGN KEY (`id_cliente`) REFERENCES `cliente` (`id_cliente`))
+[01-Jul-2024 08:23:57 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+[01-Jul-2024 08:34:33 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 08:35:25 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 08:41:47 Europe/Berlin] Add cliente method failed: El texto no es un número entero válido.
+[01-Jul-2024 08:42:59 Europe/Berlin] Add cliente method failed: El campo 'ciudad' es obligatorio.
+[01-Jul-2024 08:50:58 Europe/Berlin] Add cliente method failed: El texto no es un número entero válido.
+[01-Jul-2024 08:51:18 Europe/Berlin] Add cliente method failed: El texto no es un número entero válido.
+[01-Jul-2024 09:42:32 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 09:43:53 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 10:13:12 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '53719' for key 'PRIMARY'
+[01-Jul-2024 10:13:28 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 10:14:14 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 10:14:34 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 10:45:18 Europe/Berlin] Add cliente method failed: El campo 'ciudad' es obligatorio.
+[01-Jul-2024 10:48:10 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 15:14:49 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 15:21:35 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))
+[01-Jul-2024 15:27:44 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`integradora_bd`.`cliente`, CONSTRAINT `fk__cliente__idciuda__5165187f` FOREIGN KEY (`id_ciudad`) REFERENCES `ciudad` (`id_ciudad`))

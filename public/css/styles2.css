@@ -1,0 +1,225 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 250px;
+    background-color: #4e73df;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    transition: all 0.3s;
+}
+
+.sidebar img {
+    max-height: 80px;
+    margin-bottom: 1rem;
+}
+
+.sidebar .section-title {
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    margin: 1rem 0 0.5rem;
+    text-align: left;
+    width: 100%;
+    padding-left: 1rem;
+    font-weight: bold;
+}
+
+.sidebar a {
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    padding: 0.75rem 1rem;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+
+.sidebar a:hover {
+    background-color: #2e59d9;
+    text-decoration: none;
+}
+
+.sidebar a i {
+    margin-right: 1rem;
+}
+
+.sidebar .logout {
+    margin-top: auto;
+}
+
+.content {
+    margin-left: 250px;
+    padding: 2rem;
+    flex: 1;
+    transition: all 0.3s;
+    margin-top: 60px; /* Adjust to provide space for the fixed topbar */
+}
+
+@media (max-width: 768px) {
+    .sidebar {
+        width: 250px;
+        left: -250px;
+        display: block;
+    }
+    .sidebar.open {
+        left: 0;
+    }
+    .content {
+        margin-left: 0;
+        padding: 1rem;
+    }
+    .navbar-toggler {
+        display: block;
+    }
+}
+
+.navbar-toggler {
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+.modal-header {
+    background-color: #007bff;
+    color: white;
+}
+
+.modal-body img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.modal-content {
+    padding: 20px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.modal-dialog {
+    max-width: 800px;
+}
+
+.btn-secondary {
+    width: 100px;
+    margin-right: 10px;
+}
+
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8f9fc;
+    width: calc(100% - 250px); /* Adjust width to fit next to sidebar */
+    margin-left: 250px; /* Align next to sidebar */
+    position: fixed; /* Fix topbar at the top */
+    top: 0; /* Fix topbar at the top */
+    z-index: 1030; /* Ensure the topbar is above other content */
+}
+
+@media (max-width: 768px) {
+    .topbar {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
+.topbar .user-info {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.topbar .user-info img {
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.topbar .dropdown-menu {
+    right: 10px; /* Adjust position as needed */
+    left: auto;
+}
+
+.modal-backdrop {
+    z-index: 1040 !important;
+}
+
+.modal {
+    z-index: 1050 !important;
+}
+
+.modal.fade.show {
+    display: block !important;
+}
+.modal.show {
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+.modal.show {
+    display: block !important;
+    opacity: 1 !important;
+}
+.d-flex {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem; /* Espaciado entre los botones */
+}
+
+.btn-outline-primary, .btn-outline-success {
+    height: 34px; /* Altura fija para los botones */
+    padding: 0 10px; /* Ajusta el padding horizontal */
+    display: flex;
+    align-items: center; /* Alinea el contenido verticalmente en el centro */
+    font-size: 14px; /* Tamaño de fuente ajustado */
+    line-height: 1; /* Altura de línea ajustada */
+}
+
+.me-2 {
+    margin-right: 0.5rem;
+}
+
+.mt-3 {
+    margin-top: 1rem;
+}
+
+.report-section {
+    margin-top: 20px;
+}
+.report-section .report-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    color: #fff;
+    background-color: #007bff;
+    padding: 10px;
+    border-radius: 5px;
+}
+.report-section .report-content {
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.report-content p {
+    font-size: 1rem;
+    margin: 5px 0;
+}
+.container {
+    margin-top: 60px;
+    max-width: 800px;
+}

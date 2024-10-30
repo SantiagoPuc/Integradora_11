@@ -1,0 +1,377 @@
+[31-Jul-2024 03:52:37 Europe/Berlin] Entrando en el método calcularInventario.
+[31-Jul-2024 03:52:37 Europe/Berlin] Este es un mensaje de prueba para verificar el método.
+[31-Jul-2024 03:52:37 Europe/Berlin] Archivos de vista incluidos.
+[31-Jul-2024 03:53:27 Europe/Berlin] Entrando en el método calcularInventario.
+[31-Jul-2024 03:53:27 Europe/Berlin] Cálculo de inventario completado.
+[31-Jul-2024 03:59:02 Europe/Berlin] Acción recibida: calcular_inventario
+[31-Jul-2024 03:59:02 Europe/Berlin] Invalid action: calcular_inventario
+[31-Jul-2024 04:02:43 Europe/Berlin] Acción recibida: calcular_inventario
+[31-Jul-2024 04:02:43 Europe/Berlin] Entrando en el método calcular_inventario.
+[31-Jul-2024 04:02:43 Europe/Berlin] Datos recibidos: 11, 5, 8
+[31-Jul-2024 04:02:43 Europe/Berlin] Resultados calculados: Array
+(
+    [stockMinimo] => 335
+    [minimoSeguridad] => 201
+    [stockSeguridad] => 536
+    [stockMaximo] => 670
+    [puntoReorden] => 536
+)
+
+[31-Jul-2024 04:03:25 Europe/Berlin] Acción recibida: calcular_inventario
+[31-Jul-2024 04:03:25 Europe/Berlin] Entrando en el método calcular_inventario.
+[31-Jul-2024 04:03:25 Europe/Berlin] Datos recibidos: 7, 5, 7
+[31-Jul-2024 04:03:25 Europe/Berlin] Resultados calculados: Array
+(
+    [stockMinimo] => 5
+    [minimoSeguridad] => 2
+    [stockSeguridad] => 7
+    [stockMaximo] => 10
+    [puntoReorden] => 7
+)
+
+[31-Jul-2024 04:05:52 Europe/Berlin] Acción recibida: calcular_inventario
+[31-Jul-2024 04:05:52 Europe/Berlin] Entrando en el método calcular_inventario.
+[31-Jul-2024 04:05:52 Europe/Berlin] Datos recibidos: 7, 5, 7
+[31-Jul-2024 04:05:52 Europe/Berlin] Resultados calculados: Array
+(
+    [stockMinimo] => 5
+    [minimoSeguridad] => 2
+    [stockSeguridad] => 7
+    [stockMaximo] => 10
+    [puntoReorden] => 7
+)
+
+[31-Jul-2024 04:05:59 Europe/Berlin] No action received.
+[31-Jul-2024 04:05:59 Europe/Berlin] Acción recibida: getReporte1
+[31-Jul-2024 04:05:59 Europe/Berlin] Acción recibida: getReporte3
+[31-Jul-2024 04:05:59 Europe/Berlin] Acción recibida: getReporte2
+[31-Jul-2024 04:06:20 Europe/Berlin] Acción recibida: calcular_inventario
+[31-Jul-2024 04:06:20 Europe/Berlin] Entrando en el método calcular_inventario.
+[31-Jul-2024 04:06:20 Europe/Berlin] Datos recibidos: 11, 5, 8
+[31-Jul-2024 04:06:20 Europe/Berlin] Resultados calculados: Array
+(
+    [stockMinimo] => 335
+    [minimoSeguridad] => 201
+    [stockSeguridad] => 536
+    [stockMaximo] => 670
+    [puntoReorden] => 536
+)
+
+[31-Jul-2024 04:58:07 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:58:07 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:58:07 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:58:10 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:58:10 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:58:10 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:58:11 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:58:11 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:58:11 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:58:11 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:58:11 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:59:04 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:59:04 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:59:04 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:59:04 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:59:05 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:59:05 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:59:05 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:59:06 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:59:07 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 04:59:07 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:05 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:05 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:05 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:42 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:42 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:42 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:45 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:45 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:45 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:45 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:46 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:46 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:47 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 05:09:47 Europe/Berlin] Invalid action: buscar_producto
+[31-Jul-2024 06:42:54 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 06:53:09 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\xampp\Integradora_10\view\header.php:108) in C:\xampp\htdocs\xampp\Integradora_10\view\header_emp.php on line 13
+[31-Jul-2024 06:53:09 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\xampp\Integradora_10\view\header.php:108) in C:\xampp\htdocs\xampp\Integradora_10\view\header_emp.php on line 14
+[31-Jul-2024 06:53:09 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\xampp\Integradora_10\view\header.php:108) in C:\xampp\htdocs\xampp\Integradora_10\view\header_emp.php on line 15
+[31-Jul-2024 07:11:36 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 07:12:19 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 07:13:31 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 07:22:10 Europe/Berlin] Datos del proveedor: Array
+(
+    [id_proveedor] => 10
+    [nombre] => Aaron
+    [apellido_1] => Roberto
+    [apellido_2] => Cab
+    [telefono] => 9993742912
+    [rfc] => ASJCS2823823H
+    [calle] => 98A
+    [numero] => 345
+    [cruzamientos] => 222
+    [cp] => 97678
+    [colonia] => Conal
+    [id_ciudad] => 1
+    [id_estadop] => 1
+    [foto] => proveedor-10-Aaron-Roberto.jpeg
+    [id_estado] => 1
+    [id_pais] => 1
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 07:22:17 Europe/Berlin] Update proveedor method failed: El RFC no tiene un formato válido.
+[31-Jul-2024 07:22:41 Europe/Berlin] Update proveedor method failed: El campo ciudad no puede estar vacío.
+[31-Jul-2024 07:23:08 Europe/Berlin] Datos recibidos para actualizar: Array
+(
+    [id] => 35203
+    [nombre] => JosueJehu
+    [primer_apellido] => Chivo
+    [segundo_apellido] => Meh
+    [telefono] => 999912345
+    [correo] => papilinuxjehu@gmail.com
+    [calle] => 234
+    [numero] => 123
+    [codigo_postal] => 26251
+    [cruzamientos] => 23
+    [colonia] => San Crisanto
+    [id_ciudad] => 2
+    [foto] => 35203-JosueJehu-Chivo.jpeg
+)
+
+[31-Jul-2024 07:39:05 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 08:35:36 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 08:39:41 Europe/Berlin] Add cliente method failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '99627' for key 'PRIMARY'
+[31-Jul-2024 08:41:42 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 08:42:12 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 08:42:37 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 08:43:15 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 08:43:32 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 08:44:14 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 08:44:26 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 08:44:49 Europe/Berlin] Datos recibidos para actualizar: Array
+(
+    [id] => 35203
+    [nombre] => JosueJehu
+    [primer_apellido] => Chivo
+    [segundo_apellido] => Meh
+    [telefono] => 999912343
+    [correo] => papilinuxjehu@gmail.com
+    [calle] => 234
+    [numero] => 123
+    [codigo_postal] => 26251
+    [cruzamientos] => 23
+    [colonia] => San Crisanto
+    [id_ciudad] => 2
+    [foto] => 35203-JosueJehu-Chivo.jpeg
+)
+
+[31-Jul-2024 08:44:49 Europe/Berlin] Datos recibidos para actualizar: Array
+(
+    [id] => 35203
+    [nombre] => JosueJehu
+    [primer_apellido] => Chivo
+    [segundo_apellido] => Meh
+    [telefono] => 999912343
+    [correo] => papilinuxjehu@gmail.com
+    [calle] => 234
+    [numero] => 123
+    [codigo_postal] => 26251
+    [cruzamientos] => 23
+    [colonia] => San Crisanto
+    [id_ciudad] => 2
+    [foto] => 35203-JosueJehu-Chivo.jpeg
+)
+
+[31-Jul-2024 08:44:56 Europe/Berlin] Datos del proveedor: Array
+(
+    [id_proveedor] => 2
+    [nombre] => Jehu
+    [apellido_1] => Sarmiento
+    [apellido_2] => Anguas
+    [telefono] => 9991837625
+    [rfc] => SAJH5128637ME
+    [calle] => 34
+    [numero] => 45-A
+    [cruzamientos] => 33 y 35
+    [cp] => 97155
+    [colonia] => Cielo Alto
+    [id_ciudad] => 1
+    [id_estadop] => 1
+    [foto] => proveedor-2-Jehu-Sarmiento.jpeg
+    [id_estado] => 1
+    [id_pais] => 1
+    [marcas] => Array
+        (
+            [0] => 3
+            [1] => 1
+        )
+
+)
+
+[31-Jul-2024 09:04:19 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 09:07:58 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 09:12:37 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 09:12:46 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 09:13:26 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 09:14:21 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 09:14:26 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 09:14:32 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 16:29:18 Europe/Berlin] Datos del proveedor: Array
+(
+    [marcas] => Array
+        (
+        )
+
+)
+
